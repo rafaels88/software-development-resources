@@ -1,12 +1,12 @@
 # Contents
   - [Summary](#summary)
-  - [Online Resources](#resources)
-    - [System Architectures](#system-architectures)
+  - [Online Resources](#online-resources)
     - [Architectural Patterns](#architectural-patterns)
+    - [Code Smells](#code-smells)
+    - [Decomposing](#decomposing)
     - [Domain-Driven Design](#domain-driven-design)
     - [Object-Oriented Design](#object-oriented-design)
-    - [Decomposing](#decomposing)
-    - [Code Smells](#code-smells)
+    - [System Architectures](#system-architectures)
   - [Contributing](#contributing)
 
 ## Summary
@@ -14,23 +14,6 @@
 This is a curated list of the most didactic and/or deeply detailed resources about software development.
 
 ## Online Resources
-
-  ### System Architectures
-
-  _A system architecture is a conceptual model that defines the structure,
-  behavior, and more views of a system. An architecture description is a formal
-  description and representation of a system, organized in a way that supports
-  reasoning about the structures and behaviors of the system._
-
-  - Articles / Papers
-    - [The Clean Architecture by Uncle Bob](
-      https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
-    - [The Onion Architecture by Jeffrey Palermo](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/)
-    - [Hexagonal Architecture by Alistair Cockburn](http://alistair.cockburn.us/Hexagonal+architecture)
-
-  - Videos
-    - [Architecture the Lost Years by Uncle Bob](https://www.youtube.com/watch?v=WpkDN78P884) _(The Clean Architecture)_
-    - [What is programming MVC?](https://www.youtube.com/watch?v=1IsL6g2ixak)
 
   ### Architectural Patterns
 
@@ -41,6 +24,23 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
   - Articles / Papers
     - [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
     - [Command Query Responsibility Segregation (CQRS) by Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
+
+  ### Code Smells
+
+  _A code smell is a surface indication that usually corresponds to a deeper problem in the system._
+
+  - Videos
+    - [Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU)
+
+  ### Decomposing
+
+  _Decomposition in computer science, also known as factoring, is breaking a
+  complex problem or system into parts that are easier to conceive, understand,
+  program, and maintain._
+
+  - Articles / Papers
+    - [On the Criteria To Be Used in Decomposing Systems into Modules by David Parnas](
+    https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)
 
   ### Domain-Driven Design
 
@@ -77,22 +77,22 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
     - [SOLID Object-Oriented Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)
     - [Nothing is Something by Sandi Metz](https://www.youtube.com/watch?v=9lv2lBq6x4A)
 
-  ### Decomposing
+  ### System Architectures
 
-  _Decomposition in computer science, also known as factoring, is breaking a
-  complex problem or system into parts that are easier to conceive, understand,
-  program, and maintain._
+  _A system architecture is a conceptual model that defines the structure,
+  behavior, and more views of a system. An architecture description is a formal
+  description and representation of a system, organized in a way that supports
+  reasoning about the structures and behaviors of the system._
 
   - Articles / Papers
-    - [On the Criteria To Be Used in Decomposing Systems into Modules by David Parnas](
-    https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)
-
-  ### Code Smells
-
-  _A code smell is a surface indication that usually corresponds to a deeper problem in the system._
+    - [The Clean Architecture by Uncle Bob](
+      https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+    - [The Onion Architecture by Jeffrey Palermo](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/)
+    - [Hexagonal Architecture by Alistair Cockburn](http://alistair.cockburn.us/Hexagonal+architecture)
 
   - Videos
-    - [Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU)
+    - [Architecture the Lost Years by Uncle Bob](https://www.youtube.com/watch?v=WpkDN78P884) _(The Clean Architecture)_
+    - [What is programming MVC?](https://www.youtube.com/watch?v=1IsL6g2ixak)
 
 ## Contributing
 
