@@ -39,8 +39,8 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
   design pattern but have a broader scope._
 
   - Articles / Papers
-    - [Event Sourcing] (https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
-    - [Command Query Responsibility Segregation (CQRS) by Martin Fowler] (https://martinfowler.com/bliki/CQRS.html)
+    - [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+    - [Command Query Responsibility Segregation (CQRS) by Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
 
   ### Domain-Driven Design
 
@@ -102,8 +102,9 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
   4. Try to avoid a resource which requires a knowledge of one specific programming language to understand the concept;
   5. All the content must be in English or must have an English subtitle;
   6. Feel free to share and contribute with another incredible resource:
-    1. Fork this repository;
-    2. Create your feature branch (git checkout -b my-contrib);
-    3. Commit your changes (git commit -am 'Add some link');
-    4. Push to the branch (git push origin my-contrib);
-    5. Create new Pull Request
+
+  - Fork this repository;
+  - Create your feature branch (git checkout -b my-contrib);
+  - Commit your changes (git commit -am 'Add some link');
+  - Push to the branch (git push origin my-contrib);
+  - Create new Pull Request
