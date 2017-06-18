@@ -2,6 +2,7 @@
   - [Summary](#summary)
   - [Online Resources](#resources)
     - [System Architectures](#system-architectures)
+    - [Architectural Patterns](#architectural-patterns)
     - [Domain-Driven Design](#domain-driven-design)
     - [Object-Oriented Design](#object-oriented-design)
     - [Decomposing](#decomposing)
@@ -22,13 +23,24 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
   reasoning about the structures and behaviors of the system._
 
   - Articles / Papers
-    - [The Clean Architecture](
+    - [The Clean Architecture by Uncle Bob](
       https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
-    - [The Onion Architecture](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/)
-    - [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)
+    - [The Onion Architecture by Jeffrey Palermo](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/)
+    - [Hexagonal Architecture by Alistair Cockburn](http://alistair.cockburn.us/Hexagonal+architecture)
 
   - Videos
-    - [Architecture the Lost Years by Robert Martin](https://www.youtube.com/watch?v=WpkDN78P884) _(The Clean Architecture)_
+    - [Architecture the Lost Years by Uncle Bob](https://www.youtube.com/watch?v=WpkDN78P884) _(The Clean Architecture)_
+    - [What is programming MVC?](https://www.youtube.com/watch?v=1IsL6g2ixak)
+
+  ### Architectural Patterns
+
+  _Is a general, reusable solution to a commonly occurring problem in software
+  architecture within a given context. Architectural patterns are similar to software
+  design pattern but have a broader scope._
+
+  - Articles / Papers
+    - [Event Sourcing] (https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+    - [Command Query Responsibility Segregation (CQRS) by Martin Fowler] (https://martinfowler.com/bliki/CQRS.html)
 
   ### Domain-Driven Design
 
@@ -72,7 +84,7 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
   program, and maintain._
 
   - Articles / Papers
-    - [On the Criteria To Be Used in Decomposing Systems into Modules](
+    - [On the Criteria To Be Used in Decomposing Systems into Modules by David Parnas](
     https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)
 
   ### Code Smells
@@ -84,15 +96,14 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
 
 ## Contributing
 
-  1. It is ok to replace a link with an existing subject to another more detailed or didactic one,
-     but avoid put one more link to the same subject in the category (article, video or book) as one that is already covered;
+  1. It is ok to replace a link of an existing subject to another more detailed or didactic one;
   2. Try to be organized. Follow the same layout as the existing one;
   3. You can create another resource topic, but be sure that it is about software development;
   4. Try to avoid a resource which requires a knowledge of one specific programming language to understand the concept;
-  5. All the content must be in english, or need to have and english subtitle;
+  5. All the content must be in English or must have an English subtitle;
   6. Feel free to share and contribute with another incredible resource:
-    - Fork this repository;
-    - Create your feature branch (git checkout -b my-contrib);
-    - Commit your changes (git commit -am 'Add some link');
-    - Push to the branch (git push origin my-contrib);
-    - Create new Pull Request
+    1. Fork this repository;
+    2. Create your feature branch (git checkout -b my-contrib);
+    3. Commit your changes (git commit -am 'Add some link');
+    4. Push to the branch (git push origin my-contrib);
+    5. Create new Pull Request
