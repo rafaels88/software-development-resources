@@ -7,7 +7,6 @@
     - [Domain-Driven Design](#domain-driven-design)
     - [Object-Oriented Design](#object-oriented-design)
     - [System Architectures](#system-architectures)
-  - [Contributing](#contributing)
 
 ## Summary
 
@@ -93,18 +92,3 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
   - Videos
     - [Architecture the Lost Years by Uncle Bob](https://www.youtube.com/watch?v=WpkDN78P884) _(The Clean Architecture)_
     - [What is programming MVC?](https://www.youtube.com/watch?v=1IsL6g2ixak)
-
-## Contributing
-
-  1. It is ok to replace a link of an existing subject to another more detailed or didactic one;
-  2. Try to be organized. Follow the same layout as the existing one;
-  3. You can create another resource topic, but be sure that it is about software development;
-  4. Try to avoid a resource which requires a knowledge of one specific programming language to understand the concept;
-  5. All the content must be in English or must have an English subtitle;
-  6. Feel free to share and contribute with another incredible resource:
-
-  - Fork this repository;
-  - Create your feature branch (git checkout -b my-contrib);
-  - Commit your changes (git commit -am 'Add some link');
-  - Push to the branch (git push origin my-contrib);
-  - Create new Pull Request
