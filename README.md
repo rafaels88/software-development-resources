@@ -47,13 +47,17 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
   complex needs by deeply connecting the implementation to an evolving model
   of the core business concepts._
 
+  - Articles / Papers
+    - [Getting Started With DDD When Surrounded By Legacy Systems by Eric Evans](
+    http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)
+
   - Videos
     - [DDD & Microservices: At Last, Some Boundaries! by Eric Evans](
-      https://www.youtube.com/watch?v=yPvef9R3k-M)
+    https://www.youtube.com/watch?v=yPvef9R3k-M)
 
   - Books
     - [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans](
-      https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
+    https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
   ### Object-Oriented Design
 
@@ -62,15 +66,15 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
 
   - Articles / Papers
     - [SRP: The Single Responsibility Principle](
-      https://drive.google.com/file/d/0ByOwmqah_nuGNHEtcU5OekdDMkk/view)
+    https://drive.google.com/file/d/0ByOwmqah_nuGNHEtcU5OekdDMkk/view)
     - [The Open-Closed Principle](
-      https://drive.google.com/file/d/0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1/view)
+    https://drive.google.com/file/d/0BwhCYaYDn8EgN2M5MTkwM2EtNWFkZC00ZTI3LWFjZTUtNTFhZGZiYmUzODc1/view)
     - [The Liskov Substitution Principle](
-      https://drive.google.com/file/d/0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh/view)
+    https://drive.google.com/file/d/0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh/view)
     - [The Interface Segregation Principle](
-      https://drive.google.com/file/d/0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi/view)
+    https://drive.google.com/file/d/0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi/view)
     - [The Dependency Inversion  Principle](
-      https://drive.google.com/file/d/0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz/view)
+    https://drive.google.com/file/d/0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz/view)
 
   - Videos
     - [SOLID Object-Oriented Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)
