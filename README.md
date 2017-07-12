@@ -7,6 +7,8 @@
     - [Domain-Driven Design](#domain-driven-design)
     - [Object-Oriented Design](#object-oriented-design)
     - [System Architectures](#system-architectures)
+  - [Miscellaneous](#miscellaneous)
+    - [Git Revision Control](#git-revision-control)
 
 ## Summary
 
@@ -96,3 +98,17 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
   - Videos
     - [Architecture the Lost Years by Uncle Bob](https://www.youtube.com/watch?v=WpkDN78P884) _(The Clean Architecture)_
     - [What is programming MVC?](https://www.youtube.com/watch?v=1IsL6g2ixak)
+
+## Miscellaneous
+
+  ### Git Revision Control
+
+  _Revision control is any kind of practice that tracks and provides control over changes to source code._
+
+  - Articles / Papers
+    - [Gitflow - A successful Git branching model by Vincent Driessen](http://nvie.com/posts/a-successful-git-branching-model/)
+    - [GitLab Flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
+    - [GitHub Flow by Scott Chacon](http://scottchacon.com/2011/08/31/github-flow.html)
+
+  - Books
+    - [Pro Git](https://git-scm.com/book/en/v2)
