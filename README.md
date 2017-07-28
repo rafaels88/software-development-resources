@@ -9,6 +9,7 @@
     - [System Architectures](#system-architectures)
   - [Miscellaneous](#miscellaneous)
     - [Git Revision Control](#git-revision-control)
+    - [Others](#others)
 
 ## Summary
 
@@ -112,3 +113,9 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
 
   - Books
     - [Pro Git](https://git-scm.com/book/en/v2)
+
+  ### Others
+
+  - Articles / Papers
+    - [What's the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery? by Marko Anastasov](
+    https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html)
