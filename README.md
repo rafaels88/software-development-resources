@@ -82,6 +82,7 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
 
   - Articles / Papers
     - [Tracing Request IDs by Brandur](https://brandur.org/request-ids)
+    - [Logging levels: the wrong abstraction, by Daniel Lebrero](https://labs.ig.com/logging-level-wrong-abstraction)
 
   ### Object-Oriented Design
 
