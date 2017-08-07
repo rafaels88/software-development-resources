@@ -8,7 +8,7 @@
     - [Domain-Driven Design](#domain-driven-design)
     - [Logging](#logging)
     - [Object-Oriented Design](#object-oriented-design)
-    - [Service-Oriented Architecture](#service-orientedarchitecture)
+    - [Service-Oriented Architecture](#service-oriented-architecture)
     - [System Architectures](#system-architectures)
   - [Miscellaneous](#miscellaneous)
     - [Git Revision Control](#git-revision-control)
@@ -150,6 +150,8 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
   ### Others
 
   - Articles / Papers
+    - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) by Joel Spolsky](
+      https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
     - [Semantic Versioning Specification (SemVer)](http://semver.org/)
     - [What's the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery? by Marko Anastasov](
     https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html)
