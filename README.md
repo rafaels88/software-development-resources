@@ -3,9 +3,12 @@
   - [Online Resources](#online-resources)
     - [Architectural Patterns](#architectural-patterns)
     - [Code Smells](#code-smells)
+    - [Database](#database)
     - [Decomposing](#decomposing)
     - [Domain-Driven Design](#domain-driven-design)
+    - [Logging](#logging)
     - [Object-Oriented Design](#object-oriented-design)
+    - [Service-Oriented Architecture](#service-orientedarchitecture)
     - [System Architectures](#system-architectures)
   - [Miscellaneous](#miscellaneous)
     - [Git Revision Control](#git-revision-control)
@@ -13,7 +16,7 @@
 
 ## Summary
 
-This is a curated list of the most didactic and/or deeply detailed resources about software development.
+This is a curated list of the most didactic and/or deeply detailed must-read resources about software development.
 
 ## Online Resources
 
@@ -33,6 +36,15 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
 
   - Videos
     - [Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU)
+
+  ### Database
+
+  _A database is an organized collection of data. It is the collection of schemas, tables,
+  queries, reports, views, and other objects._
+
+  - Books
+    - [SQL Indexing and Tuning by Markus Winand](
+    http://use-the-index-luke.com/) (**_Free web-edition_**)
 
   ### Decomposing
 
@@ -62,6 +74,15 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
     - [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans](
     https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
+  ### Logging
+
+  _In computing, a logfile is a file that records either events that occur in an operating system
+  or other software runs, or messages between different users of a communication software.
+  Logging is the act of keeping a log._
+
+  - Articles / Papers
+    - [Tracing Request IDs by Brandur](https://brandur.org/request-ids)
+
   ### Object-Oriented Design
 
   _Object-Oriented Design is the process of planning a system of interacting
@@ -76,12 +97,23 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
     https://drive.google.com/file/d/0BwhCYaYDn8EgNzAzZjA5ZmItNjU3NS00MzQ5LTkwYjMtMDJhNDU5ZTM0MTlh/view)
     - [The Interface Segregation Principle](
     https://drive.google.com/file/d/0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi/view)
-    - [The Dependency Inversion  Principle](
+    - [The Dependency Inversion Principle](
     https://drive.google.com/file/d/0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz/view)
 
   - Videos
     - [SOLID Object-Oriented Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)
     - [Nothing is Something by Sandi Metz](https://www.youtube.com/watch?v=9lv2lBq6x4A)
+
+  ### Service-Oriented Architecture
+
+  _A service-oriented architecture (SOA) is a style of software design where services are provided
+  to the other components by application components, through a communication protocol over a network.
+  The basic principles of service-oriented architecture are independent of vendors, products and technologies._
+
+  - Articles / Papers
+    - [SEDA: An Architecture for Well-Conditioned, Scalable Internet Services by Matt Welsh, David Culler and Eric Brewer](
+    http://www.sosp.org/2001/papers/welsh.pdf)
+    - [Twelve-factor App Methodology by Adam Wiggins](https://12factor.net/)
 
   ### System Architectures
 
@@ -100,6 +132,7 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
     - [Architecture the Lost Years by Uncle Bob](https://www.youtube.com/watch?v=WpkDN78P884) _(The Clean Architecture)_
     - [What is programming MVC?](https://www.youtube.com/watch?v=1IsL6g2ixak)
 
+
 ## Miscellaneous
 
   ### Git Revision Control
@@ -117,5 +150,6 @@ This is a curated list of the most didactic and/or deeply detailed resources abo
   ### Others
 
   - Articles / Papers
+    - [Semantic Versioning Specification (SemVer)](http://semver.org/)
     - [What's the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery? by Marko Anastasov](
     https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html)
