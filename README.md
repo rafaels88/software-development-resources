@@ -2,14 +2,11 @@
   - [Summary](#summary)
   - [Online Resources](#online-resources)
     - [Architectural Patterns](#architectural-patterns)
-    - [Code Smells](#code-smells)
     - [Database](#database)
-    - [Decomposing](#decomposing)
-    - [Domain-Driven Design](#domain-driven-design)
     - [Logging](#logging)
     - [Object-Oriented Design](#object-oriented-design)
+    - [Refactoring](#refactoring)
     - [Service-Oriented Architecture](#service-oriented-architecture)
-    - [System Architectures](#system-architectures)
   - [Miscellaneous](#miscellaneous)
     - [Git Revision Control](#git-revision-control)
     - [Others](#others)
@@ -27,15 +24,24 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
   design pattern but have a broader scope._
 
   - Articles / Papers
-    - [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
     - [Command Query Responsibility Segregation (CQRS) by Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
+    - [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+    - [Getting Started With DDD When Surrounded By Legacy Systems by Eric Evans](
+    http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)
+    - [Hexagonal Architecture by Alistair Cockburn](http://alistair.cockburn.us/Hexagonal+architecture)
+    - [The Clean Architecture by Uncle Bob](
+      https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+    - [The Onion Architecture by Jeffrey Palermo](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/)
 
-  ### Code Smells
-
-  _A code smell is a surface indication that usually corresponds to a deeper problem in the system._
+  - Books
+    - [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans](
+    https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
   - Videos
-    - [Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU)
+    - [Architecture the Lost Years by Uncle Bob](https://www.youtube.com/watch?v=WpkDN78P884) _(The Clean Architecture)_
+    - [DDD & Microservices: At Last, Some Boundaries! by Eric Evans](
+    https://www.youtube.com/watch?v=yPvef9R3k-M)
+    - [What is programming MVC?](https://www.youtube.com/watch?v=1IsL6g2ixak)
 
   ### Database
 
@@ -46,34 +52,6 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
     - [SQL Indexing and Tuning by Markus Winand](
     http://use-the-index-luke.com/) (**_Free web-edition_**)
 
-  ### Decomposing
-
-  _Decomposition in computer science, also known as factoring, is breaking a
-  complex problem or system into parts that are easier to conceive, understand,
-  program, and maintain._
-
-  - Articles / Papers
-    - [On the Criteria To Be Used in Decomposing Systems into Modules by David Parnas](
-    https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf)
-
-  ### Domain-Driven Design
-
-  _Domain-driven design (DDD) is an approach to developing software for
-  complex needs by deeply connecting the implementation to an evolving model
-  of the core business concepts._
-
-  - Articles / Papers
-    - [Getting Started With DDD When Surrounded By Legacy Systems by Eric Evans](
-    http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)
-
-  - Videos
-    - [DDD & Microservices: At Last, Some Boundaries! by Eric Evans](
-    https://www.youtube.com/watch?v=yPvef9R3k-M)
-
-  - Books
-    - [Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans](
-    https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
-
   ### Logging
 
   _In computing, a logfile is a file that records either events that occur in an operating system
@@ -81,8 +59,8 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
   Logging is the act of keeping a log._
 
   - Articles / Papers
-    - [Tracing Request IDs by Brandur](https://brandur.org/request-ids)
     - [Logging levels: the wrong abstraction, by Daniel Lebrero](https://labs.ig.com/logging-level-wrong-abstraction)
+    - [Tracing Request IDs by Brandur](https://brandur.org/request-ids)
 
   ### Object-Oriented Design
 
@@ -102,8 +80,20 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
     https://drive.google.com/file/d/0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz/view)
 
   - Videos
-    - [SOLID Object-Oriented Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)
     - [Nothing is Something by Sandi Metz](https://www.youtube.com/watch?v=9lv2lBq6x4A)
+    - [SOLID Object-Oriented Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)
+
+  ### Refactoring
+
+  _Code refactoring is the process of restructuring existing computer code—changing the factoring—without
+  changing its external behavior. Refactoring improves nonfunctional attributes of the software._
+
+  - Articles / Papers
+    - [On the Criteria To Be Used in Decomposing Systems into Modules by David Parnas](
+    https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf) _(Decomposing)_
+
+  - Videos
+    - [Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU) _(Code Smells)_
 
   ### Service-Oriented Architecture
 
@@ -115,23 +105,6 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
     - [SEDA: An Architecture for Well-Conditioned, Scalable Internet Services by Matt Welsh, David Culler and Eric Brewer](
     http://www.sosp.org/2001/papers/welsh.pdf)
     - [Twelve-factor App Methodology by Adam Wiggins](https://12factor.net/)
-
-  ### System Architectures
-
-  _A system architecture is a conceptual model that defines the structure,
-  behavior, and more views of a system. An architecture description is a formal
-  description and representation of a system, organized in a way that supports
-  reasoning about the structures and behaviors of the system._
-
-  - Articles / Papers
-    - [The Clean Architecture by Uncle Bob](
-      https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
-    - [The Onion Architecture by Jeffrey Palermo](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/)
-    - [Hexagonal Architecture by Alistair Cockburn](http://alistair.cockburn.us/Hexagonal+architecture)
-
-  - Videos
-    - [Architecture the Lost Years by Uncle Bob](https://www.youtube.com/watch?v=WpkDN78P884) _(The Clean Architecture)_
-    - [What is programming MVC?](https://www.youtube.com/watch?v=1IsL6g2ixak)
 
 
 ## Miscellaneous
@@ -151,8 +124,8 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
   ### Others
 
   - Articles / Papers
+    - [Semantic Versioning Specification (SemVer)](http://semver.org/)
     - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) by Joel Spolsky](
       https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
-    - [Semantic Versioning Specification (SemVer)](http://semver.org/)
     - [What's the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery? by Marko Anastasov](
     https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html)
