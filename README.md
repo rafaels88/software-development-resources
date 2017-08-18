@@ -6,9 +6,8 @@
     - [Logging](#logging)
     - [Object-Oriented Design](#object-oriented-design)
     - [Refactoring](#refactoring)
+    - [Revision Control](#revision-control)
     - [Service-Oriented Architecture](#service-oriented-architecture)
-  - [Miscellaneous](#miscellaneous)
-    - [Git Revision Control](#git-revision-control)
     - [Others](#others)
 
 ## Summary
@@ -39,8 +38,7 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
 
   - Videos
     - [Architecture the Lost Years by Uncle Bob](https://www.youtube.com/watch?v=WpkDN78P884) _(The Clean Architecture)_
-    - [DDD & Microservices: At Last, Some Boundaries! by Eric Evans](
-    https://www.youtube.com/watch?v=yPvef9R3k-M)
+    - [DDD & Microservices: At Last, Some Boundaries! by Eric Evans](https://www.youtube.com/watch?v=yPvef9R3k-M)
     - [What is programming MVC?](https://www.youtube.com/watch?v=1IsL6g2ixak)
 
   ### Database
@@ -49,8 +47,7 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
   queries, reports, views, and other objects._
 
   - Books
-    - [SQL Indexing and Tuning by Markus Winand](
-    http://use-the-index-luke.com/) (**_Free web-edition_**)
+    - [SQL Indexing and Tuning by Markus Winand](http://use-the-index-luke.com/) (**_Free web-edition_**)
 
   ### Logging
 
@@ -99,21 +96,7 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
   - Videos
     - [Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU) _(Code Smells)_
 
-  ### Service-Oriented Architecture
-
-  _A service-oriented architecture (SOA) is a style of software design where services are provided
-  to the other components by application components, through a communication protocol over a network.
-  The basic principles of service-oriented architecture are independent of vendors, products and technologies._
-
-  - Articles / Papers
-    - [SEDA: An Architecture for Well-Conditioned, Scalable Internet Services by Matt Welsh, David Culler and Eric Brewer](
-    http://www.sosp.org/2001/papers/welsh.pdf)
-    - [Twelve-factor App Methodology by Adam Wiggins](https://12factor.net/)
-
-
-## Miscellaneous
-
-  ### Git Revision Control
+  ### Revision Control
 
   _Revision control is any kind of practice that tracks and provides control over changes to source code._
 
@@ -125,13 +108,31 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
   - Books
     - [Pro Git by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 
+  ### Service-Oriented Architecture
+
+  _A service-oriented architecture (SOA) is a style of software design where services are provided
+  to the other components by application components, through a communication protocol over a network.
+  The basic principles of service-oriented architecture are independent of vendors, products and technologies._
+
+  - Articles / Papers
+    - [SEDA: An Architecture for Well-Conditioned, Scalable Internet Services by Matt Welsh, David Culler and Eric Brewer](
+    http://www.sosp.org/2001/papers/welsh.pdf)
+    - [Twelve-factor App Methodology by Adam Wiggins](https://12factor.net/)
+
   ### Others
+
+  _Last but not least._
 
   - Articles / Papers
     - [Semantic Versioning Specification (SemVer) by Tom Preston-Werner](http://semver.org/)
     - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) by Joel Spolsky](
       https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
     - [Time by Emil Mikulic](https://unix4lyfe.org/time/)
+    - [What every web developer must know about URL encoding by Stéphane Épardaud](
+    https://www.talisman.org/~erlkonig/misc/lunatech%5Ewhat-every-webdev-must-know-about-url-encoding/)
     - [What Every Programmer Should Know About Memory by Ulrich Drepper](https://www.akkadia.org/drepper/cpumemory.pdf)
+    - [What Every Programmer Should Know About SEO](http://katemats.com/what-every-programmer-should-know-about-seo/)
     - [What's the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery? by Marko Anastasov](
     https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html)
+    - [What technical details should a programmer of a web application consider before making the site public?](
+    https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
