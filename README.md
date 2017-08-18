@@ -128,6 +128,8 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
     - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) by Joel Spolsky](
       https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
     - [Time by Emil Mikulic](https://unix4lyfe.org/time/)
+    - [The Infinite Hows (or, the Dangers Of The Five Whys) by John Allspaw](
+    https://www.kitchensoap.com/2014/11/14/the-infinite-hows-or-the-dangers-of-the-five-whys/) _(Post-hoc/Postmortems)_
     - [What every web developer must know about URL encoding by Stéphane Épardaud](
     https://www.talisman.org/~erlkonig/misc/lunatech%5Ewhat-every-webdev-must-know-about-url-encoding/)
     - [What Every Programmer Should Know About Memory by Ulrich Drepper](https://www.akkadia.org/drepper/cpumemory.pdf)
