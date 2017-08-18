@@ -68,6 +68,8 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
   objects for the purpose of solving a software problem._
 
   - Articles / Papers
+    - [Dealing with Properties by Martin Fowler](https://martinfowler.com/apsupp/properties.pdf)
+    - [Keep It DRY, Shy, and Tell the Other Guy by Andy Hunt and Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf)
     - [SRP: The Single Responsibility Principle](
     https://drive.google.com/file/d/0ByOwmqah_nuGNHEtcU5OekdDMkk/view)
     - [The Open-Closed Principle](
@@ -119,13 +121,14 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
     - [GitHub Flow by Scott Chacon](http://scottchacon.com/2011/08/31/github-flow.html)
 
   - Books
-    - [Pro Git](https://git-scm.com/book/en/v2)
+    - [Pro Git by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
 
   ### Others
 
   - Articles / Papers
-    - [Semantic Versioning Specification (SemVer)](http://semver.org/)
+    - [Semantic Versioning Specification (SemVer) by Tom Preston-Werner](http://semver.org/)
     - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) by Joel Spolsky](
       https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+    - [Time by Emil Mikulic](https://unix4lyfe.org/time/)
     - [What's the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery? by Marko Anastasov](
     https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html)
