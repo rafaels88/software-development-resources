@@ -95,6 +95,7 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
 
   - Videos
     - [Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU) _(Code Smells)_
+    - [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE) _(Small Objects)_
 
   ### Revision Control
 
