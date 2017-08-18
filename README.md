@@ -136,7 +136,7 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
     - [What every web developer must know about URL encoding by Stéphane Épardaud](
     https://www.talisman.org/~erlkonig/misc/lunatech%5Ewhat-every-webdev-must-know-about-url-encoding/)
     - [What Every Programmer Should Know About Memory by Ulrich Drepper](https://www.akkadia.org/drepper/cpumemory.pdf)
-    - [What Every Programmer Should Know About SEO](http://katemats.com/what-every-programmer-should-know-about-seo/)
+    - [What Every Programmer Should Know About SEO by Kate Matsudaira](http://katemats.com/what-every-programmer-should-know-about-seo/)
     - [What's the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery? by Marko Anastasov](
     https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html)
     - [What technical details should a programmer of a web application consider before making the site public?](
