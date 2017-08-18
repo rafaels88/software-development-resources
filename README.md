@@ -92,6 +92,7 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
   - Articles / Papers
     - [On the Criteria To Be Used in Decomposing Systems into Modules by David Parnas](
     https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf) _(Decomposing)_
+    - [Dont Repeat Yourself (DRY) by Andrew Hunt](http://wiki.c2.com/?DontRepeatYourself)
 
   - Videos
     - [Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU) _(Code Smells)_
