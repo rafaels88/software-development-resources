@@ -61,6 +61,8 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
   - Articles / Papers
     - [Logging levels: the wrong abstraction, by Daniel Lebrero](https://labs.ig.com/logging-level-wrong-abstraction)
     - [Tracing Request IDs by Brandur](https://brandur.org/request-ids)
+    - [The Log: What every software engineer should know about real-time data's unifying abstraction by Jay Kreps](
+    https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
   ### Object-Oriented Design
 
