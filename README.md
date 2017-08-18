@@ -28,7 +28,7 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
     - [Getting Started With DDD When Surrounded By Legacy Systems by Eric Evans](
     http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf)
     - [Hexagonal Architecture by Alistair Cockburn](http://alistair.cockburn.us/Hexagonal+architecture)
-    - [The Clean Architecture by Uncle Bob](
+    - [The Clean Architecture by Robert C. Martin](
       https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
     - [The Onion Architecture by Jeffrey Palermo](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/)
 
@@ -37,9 +37,9 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
     https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 
   - Videos
-    - [Architecture the Lost Years by Uncle Bob](https://www.youtube.com/watch?v=WpkDN78P884) _(The Clean Architecture)_
+    - [Architecture the Lost Years by Robert C. Martin](https://www.youtube.com/watch?v=WpkDN78P884) _(The Clean Architecture)_
     - [DDD & Microservices: At Last, Some Boundaries! by Eric Evans](https://www.youtube.com/watch?v=yPvef9R3k-M)
-    - [What is programming MVC?](https://www.youtube.com/watch?v=1IsL6g2ixak)
+    - [What is programming MVC? by J. Alexander Curtis](https://www.youtube.com/watch?v=1IsL6g2ixak)
 
   ### Database
 
