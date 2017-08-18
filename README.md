@@ -104,6 +104,7 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
     - [Gitflow - A successful Git branching model by Vincent Driessen](http://nvie.com/posts/a-successful-git-branching-model/)
     - [GitLab Flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
     - [GitHub Flow by Scott Chacon](http://scottchacon.com/2011/08/31/github-flow.html)
+    - [Git Style Guide by Agis Anastasopoulos](https://github.com/agis/git-style-guide)
 
   - Books
     - [Pro Git by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
@@ -124,6 +125,7 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
   _Last but not least._
 
   - Articles / Papers
+    - [Learn Regex by Zeeshan Ahmed](https://github.com/zeeshanu/learn-regex)
     - [Semantic Versioning Specification (SemVer) by Tom Preston-Werner](http://semver.org/)
     - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!) by Joel Spolsky](
       https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
