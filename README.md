@@ -67,8 +67,14 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
   objects for the purpose of solving a software problem._
 
   - Articles / Papers
+    - [Applying Design by Contract, by Bertrand Meyer](http://se.ethz.ch/~meyer/publications/computer/contract.pdf)
+    - [Command Query Separation (CQS) by Firat Atagun](http://www.firatatagun.com/blog/2016/05/28/command-query-seperation-cqs/)
     - [Dealing with Properties by Martin Fowler](https://martinfowler.com/apsupp/properties.pdf)
-    - [Keep It DRY, Shy, and Tell the Other Guy by Andy Hunt and Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf)
+    - [GRASP](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design%29)
+    - [Keep It DRY, Shy, and Tell the Other Guy by Andy Hunt and Dave Thomas]( http://media.pragprog.com/articles/may_04_oo1.pdf)
+    - [Tell, Don't Ask](https://pragprog.com/articles/tell-dont-ask) ([Examples](https://robots.thoughtbot.com/tell-dont-ask))
+    - [The Law of Demeter Is Not A Dot Counting Exercise by Phil Haack](
+    http://haacked.com/archive/2009/07/14/law-of-demeter-dot-counting.aspx/)
     - [SRP: The Single Responsibility Principle](
     https://drive.google.com/file/d/0ByOwmqah_nuGNHEtcU5OekdDMkk/view)
     - [The Open-Closed Principle](
@@ -79,6 +85,10 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
     https://drive.google.com/file/d/0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi/view)
     - [The Dependency Inversion Principle](
     https://drive.google.com/file/d/0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz/view)
+
+  - Books
+    - [Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development by Craig Larman](
+    https://www.amazon.com.br/Applying-UML-Patterns-Introduction-Object-Oriented/dp/0131489062)
 
   - Videos
     - [Nothing is Something by Sandi Metz](https://www.youtube.com/watch?v=9lv2lBq6x4A)
