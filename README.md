@@ -73,8 +73,7 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
     - [GRASP](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design%29 )
     - [Keep It DRY, Shy, and Tell the Other Guy by Andy Hunt and Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf)
     - [Tell, Don't Ask](https://pragprog.com/articles/tell-dont-ask) ([Examples](https://robots.thoughtbot.com/tell-dont-ask))
-    - [The Law of Demeter Is Not A Dot Counting Exercise by Phil Haack](
-    http://haacked.com/archive/2009/07/14/law-of-demeter-dot-counting.aspx/)
+    - [The Law of Demeter Is Not A Dot Counting Exercise by Phil Haack](http://haacked.com/archive/2009/07/14/law-of-demeter-dot-counting.aspx/)
     - [SRP: The Single Responsibility Principle](
     https://drive.google.com/file/d/0ByOwmqah_nuGNHEtcU5OekdDMkk/view)
     - [The Open-Closed Principle](
@@ -103,6 +102,14 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
     - [On the Criteria To Be Used in Decomposing Systems into Modules by David Parnas](
     https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf) _(Decomposing)_
     - [Dont Repeat Yourself (DRY) by Andrew Hunt](http://wiki.c2.com/?DontRepeatYourself)
+    - [Towards a Principle-based Classification of Structural Design Smells by Ganesh Samarthyam, Tushar Sharma and Girish Suryanarayana](
+    http://www.jot.fm/issues/issue_2013_06/article1.pdf)
+
+  - Books
+    - [Refactoring for Software Design Smells: Managing Technical Debtby Ganesh Samarthyam, Tushar Sharma and Girish Suryanarayana](
+    https://www.amazon.com/gp/product/0128013974/ref=as_li_tl)
+    - [Refactoring: Improving the Design of Existing Code by Martin Fowler, Kent Beck, John Brant, William Opdyke and Don Roberts](
+    https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 
   - Videos
     - [Get a Whiff of This by Sandi Metz](https://www.youtube.com/watch?v=PJjHfa5yxlU) _(Code Smells)_
