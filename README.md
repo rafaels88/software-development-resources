@@ -70,8 +70,8 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
     - [Applying Design by Contract, by Bertrand Meyer](http://se.ethz.ch/~meyer/publications/computer/contract.pdf)
     - [Command Query Separation (CQS) by Firat Atagun](http://www.firatatagun.com/blog/2016/05/28/command-query-seperation-cqs/)
     - [Dealing with Properties by Martin Fowler](https://martinfowler.com/apsupp/properties.pdf)
-    - [GRASP](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design%29)
-    - [Keep It DRY, Shy, and Tell the Other Guy by Andy Hunt and Dave Thomas]( http://media.pragprog.com/articles/may_04_oo1.pdf)
+    - [GRASP](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design%29 )
+    - [Keep It DRY, Shy, and Tell the Other Guy by Andy Hunt and Dave Thomas](http://media.pragprog.com/articles/may_04_oo1.pdf)
     - [Tell, Don't Ask](https://pragprog.com/articles/tell-dont-ask) ([Examples](https://robots.thoughtbot.com/tell-dont-ask))
     - [The Law of Demeter Is Not A Dot Counting Exercise by Phil Haack](
     http://haacked.com/archive/2009/07/14/law-of-demeter-dot-counting.aspx/)
