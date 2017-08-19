@@ -99,11 +99,12 @@ This is a curated list of the most didactic and/or deeply detailed must-read res
   changing its external behavior. Refactoring improves nonfunctional attributes of the software._
 
   - Articles / Papers
+    - [Code Smells by Jeff Atwood](https://blog.codinghorror.com/code-smells/)
+    - [Dont Repeat Yourself (DRY) by Andrew Hunt](http://wiki.c2.com/?DontRepeatYourself)
     - [On the Criteria To Be Used in Decomposing Systems into Modules by David Parnas](
     https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf) _(Decomposing)_
-    - [Dont Repeat Yourself (DRY) by Andrew Hunt](http://wiki.c2.com/?DontRepeatYourself)
     - [Towards a Principle-based Classification of Structural Design Smells by Ganesh Samarthyam, Tushar Sharma and Girish Suryanarayana](
-    http://www.jot.fm/issues/issue_2013_06/article1.pdf)
+    http://www.jot.fm/issues/issue_2013_06/article1.pdf) _(Design Smells)_
 
   - Books
     - [Refactoring for Software Design Smells: Managing Technical Debtby Ganesh Samarthyam, Tushar Sharma and Girish Suryanarayana](
